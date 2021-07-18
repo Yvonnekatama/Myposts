@@ -1,0 +1,2 @@
+rootProject.name = "myposts"
+include ':app'
